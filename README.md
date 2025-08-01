@@ -4,7 +4,7 @@
 
 <img width="1867" height="2134" alt="Overview Image" src="https://github.com/user-attachments/assets/c8bbb40f-cb5c-40f0-9ea0-5739e280646d" />
 
-## 📂 Data
+## 📂 Datasets
 
 To find the dataset used in this study, please make sure all files are downloaded from:  
 https://pan.baidu.com/s/1GE6RwonapwJBAZsYfEIPag  
